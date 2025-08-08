@@ -43,3 +43,23 @@ This image shows the best 11 players of the T20 cricket world cup and their perf
 
 Player analysis using tooltip
 ![image](https://user-images.githubusercontent.com/123319398/222764485-dc14f453-67e0-4913-b2c7-345912cb7aae.png)
+
+
+📄 License
+© 2025 Md. Tanvir Ahmed — All Rights Reserved
+
+This repository is for educational and professional showcase purposes only.
+
+❌ No downloading
+
+❌ No copying
+
+❌ No modifying
+
+❌ No redistribution
+
+❌ No commercial use
+
+You may view the contents of this repository for reference purposes only.
+Any other use requires explicit written permission from Md. Tanvir Ahmed.
+
